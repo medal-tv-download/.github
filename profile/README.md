@@ -20,7 +20,8 @@ With **instant replay recording, lightweight performance, and community features
 ## 📸 Overview
 Screenshots of Medal.tv in action:
 
-![medal-dashboard](https://github.com/user-attachments/assets/99bacfc9-0cda-4049-966b-c684f02ebebc)
+<img width="1907" height="1035" alt="medal-dashboard" src="https://github.com/user-attachments/assets/d05157dd-0f78-493b-95bc-c1755e26da0a" />
+
 
 <img width="1617" height="718" alt="medal-editor" src="https://github.com/user-attachments/assets/822b3d30-e083-4ef9-a59a-b2195498072b" />
 
